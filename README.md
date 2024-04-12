@@ -1,1 +1,2 @@
 # CS253-Python-Assignment
+This assignment focuses on training a machine learning model to predict the educational background of political candidates based on their demographic, financial, and party affiliation attributes. The dataset includes information about candidates' criminal records, financial assets, liabilities, and party affiliations. The main objective is to develop a predictive model that can accurately classify the education level of political candidates, contributing to a better understanding of the educational demographics in politics.
